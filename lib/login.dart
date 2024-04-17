@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nextgen_irctc/Pages/Home.dart';
 import 'package:nextgen_irctc/NavigationBar.dart';
-import 'package:get/get.dart';
 
 class MyLogin extends StatelessWidget {
   const MyLogin({super.key});
@@ -73,7 +71,7 @@ class MyLogin extends StatelessWidget {
                         // );
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => Home()
+                          MaterialPageRoute(builder: (context) => NavigationMenuBar()
                               // , transition: Transation.Zoom
                           ),
                         );

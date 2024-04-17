@@ -40,6 +40,9 @@ dependencies:
   iconsax_flutter: ^1.0.0
   get: ^4.6.6
   google_nav_bar: ^5.0.6
+  marquee: ^2.2.3
+  firebase_core: ^2.30.0
+  leak_tracker: ^10.0.5
 
 dev_dependencies:
   flutter_test:
