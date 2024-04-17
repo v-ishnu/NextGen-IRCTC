@@ -1,4 +1,4 @@
-# nextgen_irctc
+# NextGen IRCTC
 
 A new Flutter project.
 
